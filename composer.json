@@ -1,0 +1,11 @@
+{
+    "name": "sirass/kms.loli.best",
+    "type": "test",
+    "require": {},
+
+    "autoload": {
+        "psr-4":{
+            "Photos\\": ""
+        }
+    }
+}
